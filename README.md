@@ -1,4 +1,4 @@
-# 🔒 FUSE Backup Filesystem
+# 🔒 Guardfs : FUSE Backup Filesystem
 
 A simple **FUSE (Filesystem in Userspace)** project written in **C** that automatically creates **backup copies** of any files you modify inside the mounted filesystem.  
 Perfect for learning how FUSE works or for experimenting with virtual filesystems on Linux.
